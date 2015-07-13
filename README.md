@@ -1,2 +1,9 @@
-# SoundBoard_Tutorial_Teil1
+# SoundBoard Tutorial TEIL 1
 Programmiere dein eigenes Soundboard für Android! Hier ist der Code des 1. TEILES!
+
+- Tutorial auf YouTube: https://youtu.be/euZ_Pj-rxg8
+- Projekt für Eclipse (Kann problemlos in Android Studio importiert werden)
+
+<b>SCREENSHOT:</b>
+
+<img src="https://github.com/derAndroidPro/SoundBoard_Tutorial_Teil1/blob/master/Screenshot_2015-07-13-16-00-38.png" height="500px"/>
